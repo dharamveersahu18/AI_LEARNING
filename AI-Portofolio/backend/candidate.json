@@ -1,0 +1,48 @@
+{
+  "name": "Dharamveer Sahu",
+  "role" : "Computer Science Student | Aspiring Software Developer",
+  "education": {
+    "degree": "BSc Computer Science",
+    "college": "Shri Shankaracharya Institute of Professional Studies",
+    "location": "Raipur, Chhattisgarh",
+    "start_year": 2025,
+    "expected_graduation": 2029,
+    "cgpa": 7.28
+  },
+  "skills" : [
+    "C++",
+    "Data Structures and Algorithms",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Python",
+    "LLM API integration"
+  ],
+  "projects":[
+        {
+      "name": "TaskForge (Karya)",
+      "description": "A task management application built with the MERN stack.",
+      "technologies": ["React", "Node.js", "Express.js", "MongoDB"]
+    },
+        {
+      "name": "VideoTube",
+      "description": "A full-stack video-sharing application.",
+      "technologies": ["JavaScript", "Node.js", "Express.js", "MongoDB"]
+    },
+        {
+      "name": "AI Resume Analyzer",
+      "description": "An AI project that analyzes resumes using an LLM.",
+      "technologies": ["Python", "Groq API", "Pydantic"]
+    }
+  ],
+  "experience": [],
+  "achievements": [],
+  "certifications": [],
+  "social_links": {
+    "github": "https://github.com/dharamveersahu18",
+    "linkedin": "https://www.linkedin.com/in/dharamveer-sahu",
+    "leetcode": "https://leetcode.com/u/Dharamveer18/"
+  }
+}
